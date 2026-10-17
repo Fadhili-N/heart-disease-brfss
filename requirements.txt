@@ -1,0 +1,11 @@
+# Tested with Python 3.13.2 on Windows (CPU only).
+# Tested versions: pandas 2.3.3, numpy 2.3.4, scikit-learn 1.9.0, matplotlib 3.11.1,
+#                  tensorflow 2.21.0 (keras 3.15.1), wandb 0.30.0, joblib 1.5.3
+pandas>=2.0
+numpy>=1.26
+scikit-learn>=1.3
+matplotlib>=3.7
+tensorflow>=2.16
+wandb>=0.19
+joblib>=1.3
+jupyter>=1.0
